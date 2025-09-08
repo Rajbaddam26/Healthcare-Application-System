@@ -1,6 +1,6 @@
-package com.RajBaddam.HospitalManagement.repository;
+package com.RajBaddam.HealthcareApplication.repository;
 
-import com.RajBaddam.HospitalManagement.entity.Patient;
+import com.RajBaddam.HealthcareApplication.entity.Patient;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

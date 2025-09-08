@@ -1,6 +1,6 @@
-package com.RajBaddam.HospitalManagement.doctorlogin.repository;
+package com.RajBaddam.HealthcareApplication.doctorlogin.repository;
 
-import com.RajBaddam.HospitalManagement.doctorlogin.entity.Appointment;
+import com.RajBaddam.HealthcareApplication.doctorlogin.entity.Appointment;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

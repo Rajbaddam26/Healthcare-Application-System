@@ -1,4 +1,4 @@
-package com.RajBaddam.HospitalManagement.doctorlogin.entity;
+package com.RajBaddam.HealthcareApplication.doctorlogin.entity;
 
 import jakarta.persistence.*;
 

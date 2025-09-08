@@ -1,6 +1,6 @@
-package com.RajBaddam.HospitalManagement.repository;
+package com.RajBaddam.HealthcareApplication.repository;
 
-import com.RajBaddam.HospitalManagement.entity.Doctor;
+import com.RajBaddam.HealthcareApplication.entity.Doctor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.repository.JpaRepository;
 

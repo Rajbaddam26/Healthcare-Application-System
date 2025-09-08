@@ -8,10 +8,10 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.HospitalManagement</groupId>
-	<artifactId>HospitalManagementApplication</artifactId>
+	<groupId>com.RajBaddam.HealthcareApplication</groupId>
+	<artifactId>HealthcareApplicationSystem</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Hospital Management System</name>
+	<name>Healthcare Application System</name>
 	<description>This Project is for patients to interact with Doctors and vice versa which will be managed by Admin, Doctors and Patients</description>
 	<url/>
 	<licenses>
