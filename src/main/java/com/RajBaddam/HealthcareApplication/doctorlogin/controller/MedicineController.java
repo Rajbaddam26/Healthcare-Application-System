@@ -1,8 +1,8 @@
-package com.RajBaddam.HospitalManagement.doctorlogin.controller;
+package com.RajBaddam.HealthcareApplication.doctorlogin.controller;
 
-import com.RajBaddam.HospitalManagement.doctorlogin.entity.Medicine;
-import com.RajBaddam.HospitalManagement.doctorlogin.repository.MedicinesRepository;
-import com.RajBaddam.HospitalManagement.repository.PatientRepository;
+import com.RajBaddam.HealthcareApplication.doctorlogin.entity.Medicine;
+import com.RajBaddam.HealthcareApplication.doctorlogin.repository.MedicinesRepository;
+import com.RajBaddam.HealthcareApplication.repository.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -11,7 +11,7 @@ import javax.management.AttributeNotFoundException;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = {"http://localhost:4200/", "https://hospital-managament-system-front-end.vercel.app/"})
+@CrossOrigin(origins = {"http://localhost:4200/", "https://healthcare-application-system-front-end.vercel.app/"})
 @RestController
 @RequestMapping("api/v2")
 public class MedicineController {

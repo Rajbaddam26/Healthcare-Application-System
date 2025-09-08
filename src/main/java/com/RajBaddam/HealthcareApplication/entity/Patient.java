@@ -1,4 +1,4 @@
-package com.RajBaddam.HospitalManagement.entity;
+package com.RajBaddam.HealthcareApplication.entity;
 
 import jakarta.persistence.*;
 

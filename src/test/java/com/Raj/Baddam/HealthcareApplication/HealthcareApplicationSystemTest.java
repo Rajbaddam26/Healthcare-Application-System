@@ -1,10 +1,10 @@
-package com.Raj.Baddam.HospitalManagement;
+package com.Raj.Baddam.HealthcareApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HospitalManagementSystemApplicationTests {
+class HealthcareApplicationSystemTest {
 
 	@Test
 	void contextLoads() {
