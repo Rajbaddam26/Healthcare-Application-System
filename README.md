@@ -1,12 +1,12 @@
-**🏥 Healthcare Management System (HMS)** – Backend
+**🏥 Healthcare Application System (HMS)** – Backend
 
 **Introduction:**
 
-Hospital Management System is a secure, scalable platform engineered to simplify and automate all core hospital operations—including patient records, medical staff scheduling, appointments, billing, and robust, multi-role authentication. Built with the latest Java technologies, it is designed for extensibility and enterprise-grade reliability.
+Healthcare Application System is a secure, scalable platform engineered to simplify and automate all core hospital operations—including patient records, medical staff scheduling, appointments, billing, and robust, multi-role authentication. Built with the latest Java technologies, it is designed for extensibility and enterprise-grade reliability.
 
 **Project Summary:**
 
-A robust, secure RESTful application for end-to-end hospital operational management, crafted with:
+A robust, secure RESTful application for end-to-end healthcare application management, crafted with:
 
 **Java 17, Spring Boot**
 
